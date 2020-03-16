@@ -1,0 +1,88 @@
+html,body{
+    margin:0;
+    padding:0;
+}
+.info-media-container{
+    display:grid;
+    grid-template-columns:75% 25%;
+    justify-content:center;
+    background: #111f29;
+    color: white;
+}
+.info-container i{
+    padding:15px;
+    color:#f7bf29;
+}
+.span{
+    color:white;
+}
+.media-container i{
+    padding:13px;
+}
+#top{
+   color: #f7bf29;
+}
+
+.logo-navbar-container{
+    text-transform: uppercase;
+    display:grid;
+    grid-template-columns: 30% 70%;
+    justify-content:center;
+}
+.navbar-content ul{
+    list-style:none;
+}
+.navbar-content ul li{
+    display:inline;
+}
+.navbar-content ul li a{
+    color:black;
+    padding: 12px;
+    text-decoration:none;
+}
+.logo-content{
+    margin:auto;
+}
+.navbar-content{
+    margin:auto;
+}
+.navbar-content ul li a i{
+    background: #f7bf29;
+    padding:15px;
+    color:white;
+}
+.main-page{
+    background: url("../images/hh.jpeg");
+    background-size:cover;
+    padding:150px;
+    text-align:center;
+    color:white;
+
+}
+/*.main-page{
+    text-align:center;
+     background: url("../images/construction worker.jpeg");
+    background-size: cover;
+    padding:150px;
+    color:white;
+}*/
+.main-page h3{
+    color:#f7bf29;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
