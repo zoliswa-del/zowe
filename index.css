@@ -96,6 +96,9 @@ html,body{
     text-align:center;
     margin:150px 0 0 0;
 }
+h6{
+    color:white;
+}
 hr{
     width:5%;
     border:3px solid #f6b60d;
@@ -121,6 +124,69 @@ height:2px;
     background:#f6b60d;
     font-size:20px;
 }
+hr{
+    width: 5%;
+    border:3px solid black;
+    margin-left:500px;
+    margin-left:550px;
+}
+ .what-we-offer h3{
+margin-left: 500px;
+ }
+ .what-we-offer p{
+     margin-left: 250px;
+ }
+.image-container{
+    display:inline-grid;
+    grid-template-columns: 30% 30% 30%;
+}
+.aboutus{
+    display:inline-grid;
+    grid-template-columns:60% 40%;
+    grid-gap:20px;
+}
+.who-we-are{
+    margin-left:80px;
+}
+.who-we-are h4{
+    font-size:40px;
+    color:black;
+}
+.who-we-are p{
+    color:grey;
+}
+.img-cont{
+    margin-right:200px;
+}
+#btn{
+    background:orange;
+    padding:15px;
+    color:white;
+    font-size:15px;
+
+}
+.btn-cont{
+    margin-top:40px;
+}
+.offers{
+    background:orange;
+}
+.what-we-offer{
+    color:black;
+    text-align:center;
+
+}
+.img{
+    display:inline-grid;
+    grid-template-columns: auto auto auto;
+    grid-gap:10px;
+}
+
+    
+ 
+ 
+
+
 
 
 
